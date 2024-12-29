@@ -5,7 +5,11 @@ import "../styles/Header.css";
 const Header = () => {
   return (
     <header className="header">
-      <h1 className="header-title">My Portfolio</h1>
+ <div className="logo">
+        <Link to="/">
+          <img src="/img/DenisChechulinLogo.png" alt="Denis Chechulin Logo" />
+        </Link>
+      </div>
       <nav className="header-nav">
         <Link to="/" className="header-link">Home</Link>
         <Link to="/about" className="header-link">About</Link>

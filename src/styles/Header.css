@@ -1,4 +1,7 @@
 .header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
   background-color: #333;
   color: white;
   padding: 1rem 2rem;
@@ -34,4 +37,10 @@
 
 .header-link.active {
   background-color: #005f99;
+}
+
+.logo img {
+  background-color: #333;
+  height: 50px;
+  width: auto;
 }

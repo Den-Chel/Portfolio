@@ -1,5 +1,6 @@
 .home {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -19,4 +20,52 @@
   color: #555;
   line-height: 1.6;
   margin-bottom: 1rem;
+}
+
+.cta-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #007acc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #005f99;
+}
+
+.skills {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f4f4f9;
+}
+
+.skills h2 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  .cta-button {
+    width: 100%;
+    text-align: center;
+  }
 }
