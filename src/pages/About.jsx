@@ -7,15 +7,10 @@ const About = () => {
     <section className="about">
       <h2>About Me</h2>
       <p>
-        Hi, I'm Denis Chechulin, a passionate Full-Stack Developer with
-        a love for creating interactive and user-friendly web applications. I
-        specialize in Javascript,React,Python.
+      Hi, I'm Denis Chechulin, a passionate Full-Stack Developer who loves creating interactive and user-friendly web applications. I specialize in JavaScript, React, and Python.
       </p>
       <p>
-        With a background in freelance, I strive to deliver
-        high-quality solutions that solve real-world problems. When I'm not
-        coding, you can find me exploring new
-        technologies, hiking, or doing bjj.
+      With a background in freelance work, I focus on delivering high-quality solutions that address real-world challenges. When I'm not coding, I enjoy exploring new technologies, hiking, or diving into new hobbies.
       </p>
       <h3>Skills</h3>
       <ul>
