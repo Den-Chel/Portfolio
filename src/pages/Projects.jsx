@@ -6,8 +6,8 @@ const projects = [
   {
     title: "Risk & Roll",
     description: "A dynamic and interactive dice game built using HTML, CSS, and JavaScript, featuring responsive design and engaging gameplay mechanics.",
-    link: "https://github.com/Den-Chel/Pig-game",
-    demo: "https://den-chel.github.io/Pig-game/",
+    link: "https://github.com/Den-Chel/Risk-And-Roll",
+    demo: "https://den-chel.github.io/Risk-And-Roll/",
     image: "./img/Risk & Roll pic.png",
   },
   {
