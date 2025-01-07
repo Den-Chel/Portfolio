@@ -4,11 +4,11 @@ import "../styles/Projects.css";
 
 const projects = [
   {
-    title: "Risk & Roll",
-    description: "A dynamic and interactive dice game built using HTML, CSS, and JavaScript, featuring responsive design and engaging gameplay mechanics.",
-    link: "https://github.com/Den-Chel/Risk-And-Roll",
-    demo: "https://den-chel.github.io/Risk-And-Roll/",
-    image: "./img/Risk & Roll pic.png",
+    title: "GlazeGalaxy",
+    description: "A next-level online bakery with cosmic-inspired treats.",
+    link: "https://github.com/Den-Chel/GlazeGalaxy",
+    demo: "https://den-chel.github.io/GlazeGalaxy/",
+    image: "./img/GlazeGalaxy-img.png",
   },
   {
     title: "StabilityFirstBank",
@@ -25,11 +25,11 @@ const projects = [
     image: "./img/Cardio-img.png",
   },
   {
-    title: "GlazeGalaxy",
-    description: "A next-level online bakery with cosmic-inspired treats.",
-    link: "https://github.com/Den-Chel/GlazeGalaxy",
-    demo: "https://den-chel.github.io/GlazeGalaxy/",
-    image: "./img/GlazeGalaxy-img.png",
+    title: "Risk & Roll",
+    description: "A dynamic and interactive dice game built using HTML, CSS, and JavaScript, featuring responsive design and engaging gameplay mechanics.",
+    link: "https://github.com/Den-Chel/Risk-And-Roll",
+    demo: "https://den-chel.github.io/Risk-And-Roll/",
+    image: "./img/Risk & Roll pic.png",
   },
 ];
 
