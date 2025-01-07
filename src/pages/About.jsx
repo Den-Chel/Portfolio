@@ -12,14 +12,19 @@ const About = () => {
       <p>
       With a background in freelance work, I focus on delivering high-quality solutions that address real-world challenges. When I'm not coding, I enjoy exploring new technologies, hiking, or diving into new hobbies.
       </p>
-      <h3>Skills</h3>
-      <ul>
-        <li>HTML5, CSS3, JavaScript</li>
-        <li>React, Redux</li>
-        <li>Responsive Web Design</li>
-        <li>Git, GitHub</li>
-        <li>Problem-Solving</li>
-      </ul>
+      <h2>My Skills</h2>
+  <div class="skills-container">
+    <div class="skill">HTML</div>
+    <div class="skill">CSS</div>
+    <div class="skill">JavaScript</div>
+    <div class="skill">React</div>
+    <div class="skill">Node.js</div>
+    <div class="skill">Python</div>
+    <div class="skill">Git</div>
+    <div class="skill">GitHub</div>
+    <div class="skill">Responsive Design</div>
+    <div class="skill">SEO</div>
+  </div>
     </section>
   );
 };
